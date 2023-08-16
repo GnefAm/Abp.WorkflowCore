@@ -1,5 +1,7 @@
 # Abp.WorkflowCore
-ABP+WorkflowCore+jsplumb实现的工作流模块
+ABP+WorkflowCore+jsplumb
+
+blog from：https://www.cnblogs.com/lispring/p/13738600.html#t5
 
 
 
